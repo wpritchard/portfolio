@@ -33,5 +33,5 @@ stored in a centralized database.
 
 ### EDUCATION
 
-M.S., Computer Science | Austin Peay State University
-B.S., Mathematics | Tennessee Technological University
+- M.S., Computer Science | Austin Peay State University
+- B.S., Mathematics | Tennessee Technological University
