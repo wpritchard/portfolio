@@ -20,9 +20,9 @@ accounting, budgeting, and procurement processes. Also ensured all processes wer
 stored in a centralized database.
 
 #### Statistical Programmer | Tennessee Department of Health (2016–2021)
--Collaborated on application development, streamlining business processes, and enhancing system efficiency. Validated state financial and user data, ensuring accuracy and consistency for improved decision-making.
--Achieved a 100% audit completion rate for thousands of state assets by coordinating with our regional staff to compile data and generate reports for executive leadership.
--Reviewed IT support billing charges, leading to thousands of dollars saved each month through precise scrutiny and optimization.
+- Collaborated on application development, streamlining business processes, and enhancing system efficiency. Validated state financial and user data, ensuring accuracy and consistency for improved decision-making.
+- Achieved a 100% audit completion rate for thousands of state assets by coordinating with our regional staff to compile data and generate reports for executive leadership.
+- Reviewed IT support billing charges, leading to thousands of dollars saved each month through precise scrutiny and optimization.
 
 ### SKILLS
 - SAS Programming (SAS 9.4 Base Programming Certification)
