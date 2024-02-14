@@ -1,5 +1,5 @@
 # William Pritchard
-###### Lowell, MA 01854 •(931) 319-7855 • william.pritchard35@outlook.com
+###### Lowell, MA 01854 • (931) 319-7855 • william.pritchard35@outlook.com
 
 Analytics professional with 7 years of experience in state administrative data analysis. Excels in
 optimizing operations, ensuring quality, and promoting team growth. Seeking to leverage expertise 
