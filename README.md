@@ -37,4 +37,4 @@ stored in a centralized database.
 - B.S., Mathematics | Tennessee Technological University
   
 ### Projects
-- [An Analysis of the Attitudes towards Mental Health in the Tech Industry by Means of Classification Trees, Regression Trees and Traditional Methods.pdf]
+- An Analysis of the Attitudes towards Mental Health in the Tech Industry by Means of Classification Trees, Regression Trees and Traditional Methods.pdf
