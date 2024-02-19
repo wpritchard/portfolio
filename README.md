@@ -36,5 +36,5 @@ stored in a centralized database.
 - M.S., Computer Science | Austin Peay State University
 - B.S., Mathematics | Tennessee Technological University
   
-### Projects
+### PROJECTS
 - [An Analysis of the Attitudes towards Mental Health in the Tech Industry by Means of Classification Trees, Regression Trees and Traditional Methods.pdf](https://github.com/wpritchard/portfolio/blob/e55e2bba24977371aa5f247d2ea23a11230ddf70/An%20Analysis%20of%20the%20Attitudes%20towards%20Mental%20Health%20in%20the%20Tech%20Industry%20by%20Means%20of%20Classification%20Trees%2C%20Regression%20Trees%20and%20Traditional%20Methods.pdf)
