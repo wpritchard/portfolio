@@ -15,7 +15,7 @@ in business administration and data analysis.
 
 ### WORK EXPERIENCE
 
-#### Statistical Analyst Supervisor | Tennessee Department of Health \n(Jan 2024 – Present)
+#### Statistical Analyst Supervisor | Tennessee Department of Health "\n" (Jan 2024 – Present)
 
 - Developed and led training initiatives in database maintenance and user support, resulting in increased efficiency and proficiency among team members.
 - Established rigorous quality assurance standards to maintain data integrity and enhance reporting accuracy.
