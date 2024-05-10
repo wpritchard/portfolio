@@ -15,19 +15,19 @@ in business administration and data analysis.
 
 ### WORK EXPERIENCE
 
-#### Statistical Analyst Supervisor | Tennessee Department of Health <br/> (Jan 2024 – Present)
+#### Statistical Analyst Supervisor | Tennessee Department of Health<br/>(Jan 2024 – Present)
 
 - Developed and led training initiatives in database maintenance and user support, resulting in increased efficiency and proficiency among team members.
 - Established rigorous quality assurance standards to maintain data integrity and enhance reporting accuracy.
 
-#### Assistant Director of Operations Analysis | Tennessee Department of Health \n(Dec 2021 – Dec 2023)
+#### Assistant Director of Operations Analysis | Tennessee Department of Health<br/>(Dec 2021 – Dec 2023)
 - Led a cross-functional team in identifying operational challenges, driving performance, and implementing solutions, ensuring data quality and transparency for all stakeholders.
 - Utilized tools such as SQL, SAS, and Tableau to create reports for executive leadership.
 - Collaborated with stakeholders to identify key business needs, devising action plans that optimized
 accounting, budgeting, and procurement processes. Also ensured all processes were properly documented and
 stored in a centralized database.
 
-#### Statistical Programmer | Tennessee Department of Health \n(Nov 2016 – Dec 2021)
+#### Statistical Programmer | Tennessee Department of Health<br/>(Nov 2016 – Dec 2021)
 - Collaborated on application development, streamlining business processes, and enhancing system efficiency. Validated state financial and user data, ensuring accuracy and consistency for improved decision-making.
 - Achieved a 100% audit completion rate for thousands of state assets by coordinating with our regional staff to compile data and generate reports for executive leadership.
 - Reviewed IT support billing charges, leading to thousands of dollars saved each month through precise scrutiny and optimization.
