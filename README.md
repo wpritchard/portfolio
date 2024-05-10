@@ -1,10 +1,3 @@
-# William Pritchard
-###### Lowell, MA • (931) 319-7855 • william.pritchard35@outlook.com
-
-Analytics professional with 7 years of experience in state administrative data analysis. Excels in
-optimizing operations, ensuring quality, and promoting team growth. Seeking to leverage expertise 
-in business administration and data analysis.
-
 ### SKILLS
 - SAS Programming (SAS 9.4 Base Programming Certification)
 - Data Analysis and Interpretation (IBM Data Analyst Professional Certificate)
